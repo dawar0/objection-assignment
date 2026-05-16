@@ -6,10 +6,8 @@ This project is intentionally framed as a tribunal record, not an oracle. It doe
 
 ## Submission Notes
 
-- Deployed link: TBD
-- Source code: TBD
-- Loom walkthrough: TBD
-- Local app: `http://localhost:3000`
+- Deployed link: https://objection-roan.vercel.app
+- Loom walkthrough: https://www.loom.com/share/5df599ea144148299f3e0127de4ba319
 
 ## Assignment Context
 
