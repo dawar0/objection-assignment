@@ -1,0 +1,1 @@
+ALTER TABLE "source_intake_links" ADD CONSTRAINT "source_intake_links_package_id_evidence_packages_id_fk" FOREIGN KEY ("package_id") REFERENCES "public"."evidence_packages"("id") ON DELETE no action ON UPDATE no action;
